@@ -1,6 +1,6 @@
 # gmap_app
 
 
-![alt text](https://imgur.com/SfSDMoV)
-![alt text](https://imgur.com/cyCGGBT)
-![alt text](https://imgur.com/DjX2ZX2)
+!(https://imgur.com/SfSDMoV)
+!(https://imgur.com/cyCGGBT)
+!(https://imgur.com/DjX2ZX2)
